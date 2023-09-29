@@ -14,7 +14,7 @@ password:{
     type:String,
     required:true
 },
-confirmEmail:{
+confirmEmail:{ 
     type:Boolean,
      required:false,
      default:false
